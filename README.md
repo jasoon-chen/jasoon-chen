@@ -11,7 +11,9 @@ Most of my repositories are private.
 - 💡 Learning and experience
 
 ## Get In Touch
-- Personal Site: [https://jaxontekk.com](https://jaxontekk.com)
+- **Personal Site:** [https://jaxontekk.com](https://jaxontekk.com)
+- **Discord:** jasoon#5589
+- **Email:** jaxontekk [at] gmail [dot] com
 
 ## &#x1f4c8; GitHub Stats
 
