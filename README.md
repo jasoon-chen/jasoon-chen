@@ -1,6 +1,6 @@
 # Jason Chen—@JaxonTekk
 Junior in High School who is interested in Computer Science.
-- Currently living in California
+- Currently living in Irvine, California
 - Passionate about UI/UX and Rocketry.
 
 Most of my repositories are private.
