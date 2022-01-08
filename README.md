@@ -3,7 +3,7 @@ Junior in High School who is interested in Computer Science.
 - Currently living in California
 - Passionate about UI/UX and Rocketry.
 
-Most of repositories are private.
+Most of my repositories are private.
 
 ## My Values
 - 🙌 Shared understanding and consensus
