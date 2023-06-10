@@ -1,5 +1,5 @@
 # Jason Chen—@JaxonTekk
-Senior in High School who is interested in Computer Science.
+Freshman at the University of Southern California who is interested in Computer Science.
 - Currently living in California
 - Passionate about UI/UX and Rocketry.
 
