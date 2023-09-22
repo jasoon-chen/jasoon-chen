@@ -13,7 +13,7 @@ Most of my repositories are private.
 ## Get In Touch
 - **Personal Site:** [https://jaxontekk.com](https://jaxontekk.com)
 - **Discord:** jasoon#5589
-- **Email:** jaxontekk [at] gmail [dot] com
+- **Email:** jchen567 [at] usc [dot] edu
 
 <!---
 ## &#x1f4c8; GitHub Stats
