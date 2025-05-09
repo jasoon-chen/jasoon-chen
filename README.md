@@ -1,6 +1,7 @@
 # Jason Chen—@jasoonchen
 Junior at the University of Southern California studying Computer Engineering and Computer Science.
-- Currently living in California
+- Currently living in Los Angeles, California
+- Interested in robotic manipulation and humanoids
 
 Most of my repositories are private.
 
