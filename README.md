@@ -1,17 +1,11 @@
-# Jason Chen—@JaxonTekk
-Freshman at the University of Southern California who is interested in Computer Science.
+# Jason Chen—@jasoonchen
+Junior at the University of Southern California studying Computer Engineering and Computer Science.
 - Currently living in California
 
 Most of my repositories are private.
 
-## My Values
-- 🙌 Shared understanding and consensus
-- ❤️ Saftey and trust
-- 💡 Learning and experience
-
 ## Get In Touch
-- **Personal Site:** [https://jaxontekk.com](https://jaxontekk.com)
-- **Discord:** jasoon#5589
+- **Personal Site:** [https://jasoonchen.com](https://jasoonchen.com)
 - **Email:** jchen567 [at] usc [dot] edu
 
 <!---
