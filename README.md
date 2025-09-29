@@ -1,5 +1,5 @@
 # Jason Chen—@jasoon-chen
-Junior at the University of Southern California studying Computer Engineering and Computer Science.
+Junior at the University of Southern California studying Computer Science. Currently pursuing an accelerated master's degree. 
 - Currently living in Los Angeles, California
 - Interested in robotic manipulation and humanoids
 
